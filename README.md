@@ -22,5 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### How to reach me:
+[![Website](https://img.shields.io/badge/🌐%20Website-0A66C2?style=flat&logoColor=white)](https://amiralisajadi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-sajadi-a169a821b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amirali.sajadi@drexel.edu)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-QrOJroAAAAJ&hl=en&oi=ao)
