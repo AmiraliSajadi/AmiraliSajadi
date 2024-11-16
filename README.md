@@ -23,4 +23,4 @@
 
 ### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-sajadi-a169a821b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](amirali.sajadi@drexel.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amirali.sajadi@drexel.edu)
