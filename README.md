@@ -3,7 +3,7 @@
 ### About Me
 🎓 I'm a PhD student at Drexel University --> I research Software Engineering at [Soar Lab](https://soar-lab.github.io/).
 
-💻 My current research is focused on security --> I'm study the ways LLMs influence software security!
+💻 My current research is focused on security --> I'm studying the ways LLMs influence software security!
 
 ### Technologies and Skills
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
